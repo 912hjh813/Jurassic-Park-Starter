@@ -4,6 +4,8 @@
 ### A game based on Jurassic Park.
 ### 一个基于侏罗纪公园的游戏
 
+![image](https://user-images.githubusercontent.com/92086473/151472550-1e76e66d-503a-44ec-a4d1-13c87be58606.png)
+
 Jurassic Park Starter is aimed to push the limit of 2D games.
 侏罗纪公园:伊始致力于让二维游戏更上一层楼。
 
